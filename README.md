@@ -11,5 +11,7 @@ To use this scripts you must
 
 p.s. will be better to download the latest version of tar file from Yelp official web site
 
+also there is a reccommendation system colab file you can watch!
+
 Good Luck!
 
