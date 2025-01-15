@@ -1,6 +1,6 @@
 # yelp
-1. save yelp to MongoDB Atlas Cloud
-2. build a recommendation system based on yelp dataset
+1. recommendation system based on yelp dataset
+2. save yelp to MongoDB Atlas Cloud /example/
 
 This script is a small functianality to save Yelp Dataset user, review and business data into MongoDB Atlas Cloud
 
